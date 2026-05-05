@@ -1663,7 +1663,7 @@ dconf load / << __EOF__
 
 
 [org/gnome/shell]
-favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.TextEditor.desktop', 'org.mozilla.firefox.desktop', 'org.gnome.Ptyxis.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Extensions.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'org.gnome.Software.desktop']
+favorite-apps=['org.gnome.Nautilus.desktop', 'org.gnome.TextEditor.desktop', 'firefox.desktop', 'org.gnome.Ptyxis.desktop', 'org.gnome.Settings.desktop', 'org.gnome.tweaks.desktop', 'org.gnome.Extensions.desktop', 'com.mattjakeman.ExtensionManager.desktop', 'org.gnome.Software.desktop']
 
 
 
