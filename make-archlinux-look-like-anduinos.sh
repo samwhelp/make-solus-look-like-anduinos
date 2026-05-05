@@ -11,8 +11,8 @@
 ##
 ## ## Link
 ##
-## * https://github.com/samwhelp/make-archlinux-look-like-anduinos/blob/main/make-archlinux-look-like-anduinos.sh
-## * https://raw.githubusercontent.com/samwhelp/make-archlinux-look-like-anduinos/refs/heads/main/make-archlinux-look-like-anduinos.sh
+## * https://github.com/samwhelp/make-solus-look-like-anduinos/blob/main/make-solus-look-like-anduinos.sh
+## * https://raw.githubusercontent.com/samwhelp/make-solus-look-like-anduinos/refs/heads/main/make-solus-look-like-anduinos.sh
 ##
 
 
